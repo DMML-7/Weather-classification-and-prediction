@@ -1,7 +1,7 @@
 # Weather-classification-and-prediction
 2024-2025 F20DL Assessed Coursework, Heriot-Watt University Dubai
 
-Group 7's members: Areej Ahmed H00385913 Muhammad Imaad H00362645 Ziyaan Mir:  Syed Ammar:  Mufaddal Abizar Ezzi: 
+Group 7's members: Areej Ahmed: H00385913 Muhammad Imaad: H00362645 Ziyaan Mir:  Syed Ammar: H00364774 Mufaddal Abizar Ezzi: H00360993
 
 Coursework Overview
 The group project at hand involves choosing one topic of application and then selecting and analyzing 1–3
