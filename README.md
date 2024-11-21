@@ -78,7 +78,7 @@ decision trees, and neural networks
 
    
 
-#### Data Pipeline:
+### Data Pipeline:
 1. Tools\Software needed: Jupyter Notebook or Google Colab
 2. Libraries Required: NumPy, Pandas, matplotlib.pyplot, seaborn, imbalanced-learn, scikit-learn, xgboost, lightgbm, catboost.
 3. Load raw dataset from the specified directory in the header of the notebook.
@@ -87,8 +87,8 @@ decision trees, and neural networks
 6. Split the data into training and testing sets.
 7. Save the preprocessed dataset with a change in name for ease of use.
 
-#### Requirements
-1. ##### Australia Weather Data
+### Requirements
+1. #### Australia Weather Data
 > With this dataset, we are classifying based on chosen attributes, whether or not is raining the next day. The attribute we are predicting is the "RainTomorrow" attribute.
 * Data Preprocessing and Analysis (R2)
 > Process
@@ -117,7 +117,7 @@ decision trees, and neural networks
 >
 > Table of results (Markdown tables)
 
-2. ##### London Weather Data
+2. #### London Weather Data
 > With this dataset, we are predicting based on chosen attributes, the amount of sunshine the next day. The attribute we are predicting is the "sunshine" attribute.
 * Data Preprocessing and Analysis (R2)
 > Process
@@ -144,7 +144,7 @@ decision trees, and neural networks
 >
 > Table of results (Markdown tables)
 
-1. ##### Weather Image Recognition
+1. #### Weather Image Recognition
 > With this dataset, we are classifying pictures into certain classes using neural networks.
 * Data Preprocessing and Analysis (R2)
 > Process
@@ -173,3 +173,12 @@ decision trees, and neural networks
 >
 > Table of results (Markdown tables)
 
+### Folder and File Structure
+* #### data/
+> This folder stores our chosen datasets as well their the preprocessed versions.
+* #### notebooks/
+> This folder stores our notebooks for our analysis and model running.
+* #### scripts/
+> This folder stores our scripts for preprocessing our datasets.
+* #### documentation/
+> This folder stores our project documents as well as the weekly updates of our work
