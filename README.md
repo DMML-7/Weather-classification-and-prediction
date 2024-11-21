@@ -11,15 +11,15 @@ work, data exploration, and the application of various machine learning methods,
 decision trees, and neural networks
 
 Our Project Milestones:
-Week 3: Finalize topic, finalize datasets and lay out the objectives.
-Week 4: Carry out data visualization on datasets. Finish PowerPoint for D1. (R1)
-Week 5: Change PowerPoint slides as per feedback. Start preprocessing.
-Week 6: Complete preprocessing. Visualize data after preprocessing and analyze. (R2)
-Week 7: Experiment with clustering (R3)
-Week 8: Start training models. Evaluate their performance. (R4)
-Week 9:Experiment with Neural Networks (R5)
-Week 10: Work on the report
-Week 11: Finalize report
+  Week 3: Finalize topic, finalize datasets and lay out the objectives.
+  Week 4: Carry out data visualization on datasets. Finish PowerPoint for D1. (R1)
+  Week 5: Change PowerPoint slides as per feedback. Start preprocessing.
+  Week 6: Complete preprocessing. Visualize data after preprocessing and analyze. (R2)
+  Week 7: Experiment with clustering (R3)
+  Week 8: Start training models. Evaluate their performance. (R4)
+  Week 9:Experiment with Neural Networks (R5)
+  Week 10: Work on the report
+  Week 11: Finalize report
 
 
 
