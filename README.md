@@ -10,7 +10,7 @@ explore, analyze, and apply machine learning techniques to these datasets. The p
 work, data exploration, and the application of various machine learning methods, including clustering,
 decision trees, and neural networks
 
-Our Project Milestones:
+###Our Project Milestones:
 
   Week 3: Finalize topic, finalize datasets and lay out the objectives.
   
