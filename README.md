@@ -83,9 +83,10 @@ decision trees, and neural networks
 2. Libraries Required: NumPy, Pandas, matplotlib.pyplot, seaborn, imbalanced-learn, scikit-learn, xgboost, lightgbm, catboost.
 3. Load raw dataset from the specified directory in the header of the notebook.
 4. Clean the data by removing null values and handling outliers.
-5. Normalize numerical features and encode categorical features.
-6. Split the data into training and testing sets.
-7. Save the preprocessed dataset with a change in name for ease of use.
+5. Balance the dataset.
+6. Normalize numerical features and encode categorical features.
+7. Split the data into training and testing sets.
+8. Save the preprocessed dataset with a change in name for ease of use.
 
 ### Requirements
 1. #### Australia Weather Data
