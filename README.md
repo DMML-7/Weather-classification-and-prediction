@@ -41,7 +41,7 @@ decision trees, and neural networks
 
 
 ### Our datasets are: 
-#### 1. Australian Weather Data
+#### 1. Australian Weather Data (Rainfall classification)
 > Link for the dataset: https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-data
 
 > Original source of the data: Australian Bureau of Meteorology at http://www.bom.gov.au/climate/data/
@@ -51,7 +51,7 @@ decision trees, and neural networks
 > Examples of dataset content:
 ![image](https://github.com/user-attachments/assets/4e9bb6f9-a5ff-4836-b76b-9535da8cb023)
 
-#### 2. London Weather Data
+#### 2. London Weather Data (Sunshine prediction)
 > Link for the dataset: https://www.kaggle.com/datasets/emmanuelfwerr/london-weather-data
 
 > Original source of the data: European Climate Assessment (ECA) at http://www.bom.gov.au/climate/data/](https://www.ecad.eu/dailydata/index.php)
@@ -61,7 +61,7 @@ decision trees, and neural networks
 > Examples of dataset content:
 ![image](https://github.com/user-attachments/assets/1a9ad034-44ec-4b34-867c-a8a6ebfc0638)
 
-#### 3. Weather Image Recognition
+#### 3. Weather Image Recognition (Image classification)
 > Link for the dataset: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
 
 > Original source of the data: Harvard Dataverse
