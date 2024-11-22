@@ -1,0 +1,63 @@
+Team Members:
+
+Syed Ammar
+Mufaddal
+Muhammad Imaad
+Areej Ahmed
+Ziyaan Mir
+Project Duration: Week 4 to Week 11
+
+Task Division
+
+Syed Ammar and Mufaddal worked on the London Weather Dataset, focusing on predicting sunshine levels two days ahead using various regression models.
+
+Muhammad Imaad and Areej Ahmed handled the Australia Weather Data, implementing classification techniques to predict whether it will rain tomorrow.
+
+Ziyaan Mir managed the Weather Image Recognition dataset, developing convolutional neural networks (CNNs) for classifying different weather conditions from images.
+
+Project Timeline
+
+Week 4: Dataset Selection
+Syed Ammar and Mufaddal selected the London Weather Dataset from Kaggle, which includes 10 years of daily weather observations with multiple meteorological attributes.
+Muhammad Imaad and Areej Ahmed chose the Australia Weather Data dataset from Kaggle, containing extensive daily weather records suitable for classification tasks.
+Ziyaan Mir opted for the Weather Image Recognition dataset from Harvard Dataverse and Kaggle, comprising 6,862 images across 11 weather classes.
+Outcome: All team members ensured the datasets were appropriate for their respective predictive tasks.
+
+Week 5: Problem Discussion
+The team met to define project goals and discuss challenges:
+Syed Ammar and Mufaddal focused on predicting sunshine levels two days ahead using regression models.
+Muhammad Imaad and Areej Ahmed aimed to classify whether it will rain tomorrow using the Australia Weather Data.
+Ziyaan Mir planned to classify weather conditions from images using CNNs.
+Outcome: Clear objectives and strategies were established for each dataset and task.
+
+Week 6: Data Preprocessing Begins
+Syed Ammar and Mufaddal started cleaning the London Weather Dataset by handling missing values and creating lagged features (sunshine_lag1 and sunshine_lag2) to capture temporal dependencies.
+Muhammad Imaad and Areej Ahmed began preprocessing the Australia Weather Data by addressing missing values and preparing the data for classification.
+Ziyaan Mir initiated preprocessing of the Weather Image Recognition dataset by cropping watermarks, resizing images to 256x256 pixels, and addressing class imbalances through under-sampling.
+Outcome: Prepared datasets were ready for further analysis and modeling.
+
+Week 7: Feature Engineering and Balancing
+Syed Ammar and Mufaddal applied SMOTE (Synthetic Minority Over-sampling Technique) to the London Weather Dataset to balance the dataset by generating synthetic examples for minority classes.
+Muhammad Imaad and Areej Ahmed conducted feature engineering on the Australia Weather Data, enhancing feature relevance for better model performance.
+Ziyaan Mir implemented data augmentation techniques using the scikit-image library to enhance the Weather Image Recognition dataset and prevent overfitting.
+Outcome: Enhanced data quality and balance across all datasets, facilitating more effective model training.
+
+Week 8: Clustering and Dimensionality Reduction
+Syed Ammar and Mufaddal performed K-Means clustering on the London Weather Dataset, determining the optimal number of clusters using the Elbow Method and Silhouette Analysis.
+Muhammad Imaad and Areej Ahmed utilized Principal Component Analysis (PCA) on the Australia Weather Data to reduce dimensionality and simplify feature sets.
+Ziyaan Mir applied PCA to the Weather Image Recognition dataset to reduce complexity for non-CNN models and streamline visualization.
+Outcome: Identified underlying patterns in the data and reduced feature dimensionality, enhancing model efficiency.
+
+Week 9: Feature Selection
+Syed Ammar and Mufaddal used Recursive Feature Elimination (RFE) alongside PCA to select the most correlated features with the target variable "Sunshine," identifying key predictors such as "Rainfall," "WindGustSpeed," "Humidity3pm," "Pressure9am," and "Pressure3pm."
+Muhammad Imaad and Areej Ahmed conducted feature selection on the Australia Weather Data to enhance model accuracy and reduce overfitting.
+Ziyaan Mir focused on selecting relevant features for image classification models to improve accuracy and reduce computational complexity.
+Outcome: Optimized feature sets for all models, ensuring that only the most relevant features were used in predictions.
+
+Week 10: Model Implementation and evalutaion
+Syed Ammar and Mufaddal implemented various regression models on the London Weather Dataset
+Muhammad Imaad and Areej Ahmed developed and trained classification models on the Australia Weather Data
+Ziyaan Mir designed and built multiple Convolutional Neural Network (CNN) architectures for weather image classification, experimenting with different layers and regularization techniques.
+Outcome: A comprehensive suite of models was ready for training and evaluation across all datasets.
+
+Week 11: Final report compilation and submission. 
